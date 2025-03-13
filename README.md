@@ -10,6 +10,10 @@ The AI Resume Screening & Candidate Ranking System is a Streamlit-based web appl
 - Rank resumes based on relevance to the job description
 - Display results in a tabular format
 
+![WhatsApp Image 2025-03-13 at 20 14 48_02916d9e](https://github.com/user-attachments/assets/1133c70a-074f-49a3-91eb-463f36773408)
+
+![WhatsApp Image 2025-03-13 at 20 15 25_5bf871fa](https://github.com/user-attachments/assets/cd7068ea-40de-4f32-b551-ec69da9339ed)
+
 ## Technologies Used
 - Python
 - Streamlit
